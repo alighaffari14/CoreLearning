@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAngularLearning", "CoreAngularLearning.csproj", "{458C23C2-47EF-4F3B-A9B6-4D9EDCB55615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458C23C2-47EF-4F3B-A9B6-4D9EDCB55615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458C23C2-47EF-4F3B-A9B6-4D9EDCB55615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458C23C2-47EF-4F3B-A9B6-4D9EDCB55615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458C23C2-47EF-4F3B-A9B6-4D9EDCB55615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7636DCC6-D594-4335-83D8-B8C44DCF17AD}
+	EndGlobalSection
+EndGlobal
